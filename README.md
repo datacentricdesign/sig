@@ -18,23 +18,23 @@ For more information, please read our submission [here](https://drive.google.com
 
 ## Organisers 
 
-- Alejandra Gomez Ortega 
+- [Alejandra Gomez Ortega](https://www.tudelft.nl/en/ide/about-ide/people/gomez-ortega-a) 
 
 - Janne van Kollenburg 
 
 - Yvette Shen 
 
-- Dave-Murray Rust 
+- [Dave-Murray Rust](https://www.tudelft.nl/en/ide/about-ide/people/murray-rust-d) 
 
 - Dajana Nedić 
 
 - Juan Jimenez Garcia 
 
-- Wo Meijer 
+- [Wo Meijer](https://www.tudelft.nl/en/ide/about-ide/people/meijer-w) 
 
 - Pranshu Kumar Chaudhary  
 
-- Jacky Bourgeois 
+- [Jacky Bourgeois](https://www.tudelft.nl/en/ide/about-ide/people/bourgeois-j) 
 
  
 
