@@ -20,19 +20,19 @@ For more information, please read our submission [here](https://drive.google.com
 
 - [Alejandra Gomez Ortega](https://www.tudelft.nl/en/ide/about-ide/people/gomez-ortega-a) 
 
-- Janne van Kollenburg 
+- [Janne van Kollenburg](https://nl.linkedin.com/in/jannevankollenburg) 
 
-- Yvette Shen 
+- [Yvette Shen](https://design.osu.edu/people/shen.1049) 
 
 - [Dave-Murray Rust](https://www.tudelft.nl/en/ide/about-ide/people/murray-rust-d) 
 
-- Dajana Nedić 
+- [Dajana Nedić](https://fulbright.uark.edu/departments/art/directory/index/uid/nedic/name/Dajana+Nedic/) 
 
-- Juan Jimenez Garcia 
+- [Juan Jimenez Garcia](https://carleton.ca/id/profile/juan-jimenez-garcia/) 
 
 - [Wo Meijer](https://www.tudelft.nl/en/ide/about-ide/people/meijer-w) 
 
-- Pranshu Kumar Chaudhary  
+- [Pranshu Kumar Chaudhary](https://in.linkedin.com/in/pranshu101)  
 
 - [Jacky Bourgeois](https://www.tudelft.nl/en/ide/about-ide/people/bourgeois-j) 
 
