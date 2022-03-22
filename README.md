@@ -40,4 +40,4 @@ For more information, please read our submission [here](https://drive.google.com
 
 ## Contact Us 
 
-If you have questions about the SIG, you can contact Alejandra Gómez by sending an email to a.gomezortega@tudelft.nl 
+If you have questions about the SIG, you can contact Alejandra Gómez by sending an email to [a.gomezortega@tudelft.nl](mailto:a.gomezortega@tudelft.nl) 
