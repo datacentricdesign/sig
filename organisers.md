@@ -26,7 +26,7 @@
 
 ## [Wo Meijer](https://www.tudelft.nl/en/ide/about-ide/people/meijer-w)
 
-![[Wo Meijer Photo](https://d2k0ddhflgrk1i.cloudfront.net/_processed_/f/9/csm_uvn1ukyxrtbaltj7bm71ye39671su49s_7c12bac3a5.jpeg)
+![Wo Meijer Photo](https://d2k0ddhflgrk1i.cloudfront.net/_processed_/f/9/csm_uvn1ukyxrtbaltj7bm71ye39671su49s_7c12bac3a5.jpeg)
 
 ## [Pranshu Kumar Chaudhary](https://in.linkedin.com/in/pranshu101)  
 
