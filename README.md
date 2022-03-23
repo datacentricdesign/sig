@@ -1,12 +1,14 @@
+# Attending?
+
+To inform the SIG discussions, we'd like to learn from your personal experience working at the intersection of data and design. [Please fill out this form before the 25th of April.](https://forms.office.com/Pages/ResponsePage.aspx?id=TVJuCSlpMECM04q0LeCIe1EJ1--GzZlEqSFPTQ501xFUMFFRWU1ORExSRjFBNUgyMEVISzcyOEtaMy4u)
+
 ## Goals
 
-1) Identify Best Practices: How and where in the design process is data collected, applied and validated? What is a designerly take on collecting and using data through a process that is dynamic and iterative?  
+**1) Identify Best Practices:** How and where in the design process is data collected, applied and validated? What is a designerly take on collecting and using data through a process that is dynamic and iterative?  
 
-2) Co-Develop Appropriate Tools: How to foster collaboration between designers and data scientists to create accessible, designer-friendly tools that enable a creative and  holistic engagement with data? What are the existing tools and methodologies that support designers in using data as creative design material?  
+**2) Co-Develop Appropriate Tools:** How to foster collaboration between designers and data scientists to create accessible, designer-friendly tools that enable a creative and  holistic engagement with data? What are the existing tools and methodologies that support designers in using data as creative design material?  
 
-3) Educate Stakeholders: How to establish a common ground on responsibly setting up and running designerly, data-intensive projects with regulatory bodies? How to reduce the frictions that emerge from an exploratory, rather than an evaluative, approach to data-intensive activities?  
-
-Attending? To inform the SIG discussions, we'd like to learn from your personal experience working at the intersection of data and design. Please fill out this form before the 25th of April.
+**3) Educate Stakeholders:** How to establish a common ground on responsibly setting up and running designerly, data-intensive projects with regulatory bodies? How to reduce the frictions that emerge from an exploratory, rather than an evaluative, approach to data-intensive activities?  
 
 For more information, please read our submission [here](https://drive.google.com/file/d/1wGpUdHQ4ttFOTSdWXteOfjbrCsT6mYLx/view?usp=sharing).
 

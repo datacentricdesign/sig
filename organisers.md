@@ -37,4 +37,3 @@ These are the lovely people helping to organize this SIG!
 ## [Jacky Bourgeois](https://www.tudelft.nl/en/ide/about-ide/people/bourgeois-j)
 
 ![Jacky Bourgeois Photo](https://d2k0ddhflgrk1i.cloudfront.net/_processed_/d/b/csm_LSH_7968_400x400_dce2e922ec.jpg)
-
