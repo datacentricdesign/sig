@@ -16,7 +16,7 @@ For more information, please read our submission [here](https://drive.google.com
 
 - SIG Discussion: May 3rd from 9:00 to 10:15 CST (16:00 to 17:15 CET) Registration to CHI is required, more information on how to register [here](https://web.cvent.com/event/39da8b29-3829-4548-829e-750fc9dd732e/summary).
 
-## [Organisers](./organisers)
+## Organisers
 
 - [Alejandra Gomez Ortega](https://www.tudelft.nl/en/ide/about-ide/people/gomez-ortega-a)
 
