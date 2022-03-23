@@ -1,5 +1,7 @@
 # Organisers
 
+These are the lovely people helping to organize this SIG!
+
 ## [Alejandra Gomez Ortega](https://www.tudelft.nl/en/ide/about-ide/people/gomez-ortega-a)
 
 ![Alejandra Photo](https://d2k0ddhflgrk1i.cloudfront.net/_processed_/9/6/csm_m9ozh1y1ja56ow94v2dr4gdnjzougtf2_b01b5dd2f7.jpg)

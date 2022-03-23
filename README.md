@@ -1,7 +1,3 @@
-# SIG on Data as Human-Centered Design Material
-
-A space for design, data, and HCI researchers and practitioners to connect, reflect, and explore ways to further integrate data into design activities.  
-
 ## Goals
 
 1) Identify Best Practices: How and where in the design process is data collected, applied and validated? What is a designerly take on collecting and using data through a process that is dynamic and iterative?  
@@ -18,7 +14,7 @@ For more information, please read our submission [here](https://drive.google.com
 
 - SIG Discussion: May 3rd from 9:00 to 10:15 CST (16:00 to 17:15 CET) Registration to CHI is required, more information on how to register [here](https://web.cvent.com/event/39da8b29-3829-4548-829e-750fc9dd732e/summary).
 
-## Organisers
+## [Organisers](./organisers)
 
 - [Alejandra Gomez Ortega](https://www.tudelft.nl/en/ide/about-ide/people/gomez-ortega-a)
 

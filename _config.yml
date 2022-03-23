@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: SIG on Data as Human-Centered Design Material
+description: A space for design, data, and HCI researchers and practitioners to connect, reflect, and explore ways to further integrate data into design activities.
 github:
   is_project_page: false
