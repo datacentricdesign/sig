@@ -1,6 +1,6 @@
 # Attending?
 
-To inform the SIG discussions, we'd like to learn from your personal experience working at the intersection of data and design. [Please fill out this form before the 25th of April.](https://forms.office.com/Pages/ResponsePage.aspx?id=TVJuCSlpMECM04q0LeCIe1EJ1--GzZlEqSFPTQ501xFUMFFRWU1ORExSRjFBNUgyMEVISzcyOEtaMy4u)
+To inform the SIG discussions, we'd like to learn from your personal experience working at the intersection of data and design. [Please fill out this form before the 25th of April.](https://airtable.com/shrg9OmAu9TLB4RBZ)
 
 ## Goals
 
