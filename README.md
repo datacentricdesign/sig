@@ -1,6 +1,6 @@
 # Attending?
 
-To inform the SIG discussions, we'd like to learn from your personal experience working at the intersection of data and design. [Please fill out this form before the 25th of April.](https://airtable.com/shrg9OmAu9TLB4RBZ)
+To inform the SIG discussions, we'd like to learn from your personal experience working at the intersection of data and design. [Register here](https://airtable.com/shrg9OmAu9TLB4RBZ)
 
 ## Goals
 
@@ -14,7 +14,7 @@ For more information, please read our submission [here](https://drive.google.com
 
 ## Important Dates
 
-- SIG Discussion: May 3rd from 9:00 to 10:15 CST (16:00 to 17:15 CET) Registration to CHI is required, more information on how to register [here](https://web.cvent.com/event/39da8b29-3829-4548-829e-750fc9dd732e/summary).
+- SIG Discussion: May 3rd from 9:00 to 10:15 CST (16:00 to 17:15 CET). Register to CHI [here](https://web.cvent.com/event/39da8b29-3829-4548-829e-750fc9dd732e/summary).
 
 ## Organisers
 
