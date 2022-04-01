@@ -12,6 +12,8 @@ To inform the SIG discussions, we'd like to learn from your personal experience 
 
 For more information, please read our submission [here](https://drive.google.com/file/d/1wGpUdHQ4ttFOTSdWXteOfjbrCsT6mYLx/view?usp=sharing).
 
+## Virtual Gallery
+
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrT0HUmXMYT3yijg?backgroundColor=cyanLight&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ## Important Dates
