@@ -1,6 +1,6 @@
 # Attending?
 
-To inform the SIG discussions, we'd like to learn from your personal experience working at the intersection of data and design. [Register here](https://airtable.com/shrg9OmAu9TLB4RBZ)
+To inform the SIG discussions, we'd like to learn from your personal experience working at the intersection of data and design. [Register here and contribute to our Virtual Gallery.](https://airtable.com/shrg9OmAu9TLB4RBZ)
 
 ## Goals
 
