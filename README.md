@@ -12,6 +12,8 @@ To inform the SIG discussions, we'd like to learn from your personal experience 
 
 For more information, please read our submission [here](https://drive.google.com/file/d/1wGpUdHQ4ttFOTSdWXteOfjbrCsT6mYLx/view?usp=sharing).
 
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrT0HUmXMYT3yijg?backgroundColor=cyanLight&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
 ## Important Dates
 
 - SIG Discussion: May 3rd from 9:00 to 10:15 CST (16:00 to 17:15 CET). Register to CHI [here](https://web.cvent.com/event/39da8b29-3829-4548-829e-750fc9dd732e/summary).
