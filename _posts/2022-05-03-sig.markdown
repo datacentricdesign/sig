@@ -10,6 +10,7 @@ title: SIG CHI'22
 category: SIG
 description: At CHI'22 we had an initial, virtual gathering of the community focused on mapping who is the data+design community and what is the terminology.
 recording: Not Recorded
+location: Online, via CHI'22 programme
 ---
 
 We collectivelly created the following Miro board: https://miro.com/app/board/uXjVO9kAiYw=/?share_link_id=550392868085

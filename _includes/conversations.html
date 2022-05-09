@@ -11,23 +11,23 @@
                     {% for post in site.posts %}
                     <tr>
                         <td>
-                            {{post.speaker}}
+                            Speaker: {{post.speaker}}
                         </td>
                         <td>
-                            {{post.project-date}}
+                            Date: {{post.project-date}}
                         </td>
                         <td>
-                            {{post.location}}
+                            Location: {{post.location}}
                         </td>
                         <td>
-                            Recording: {post.recording}
+                            Recording: {{post.recording}}
                         </td>
                     </tr>
                     <tr>
                         <td>
                             <img src="img/conversations/{{ post.img }}" style="max-width:200px" alt="{{ post.alt }}">
                         </td>
-                        <td colspan="3">
+                        <td colspan="3" style="padding:10px">
                             <h3>{{post.title}}</h3>
                             <h4>
                                 {{post.description}}

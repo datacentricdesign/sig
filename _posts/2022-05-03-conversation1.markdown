@@ -10,4 +10,5 @@ title: Conversation 1
 speaker: Yvette Shen
 category: SIG
 description: TDB
+location: Online (MS Teams) and TU Delft (NL) 
 ---
