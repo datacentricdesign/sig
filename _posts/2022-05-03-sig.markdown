@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 1
+date: 2022-05-03
+# img: cabin.png
+# alt: image-alt
+project-date: May 3rd, 2022
+client: CHI'22
+category: SIG
+description: At CHI'22 we had an initial, virtual gathering of the community focused on mapping who is the data+design community and what is the terminology.
+---
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVO9kAiYw=/?moveToViewport=-6560,-341,40740,11978" frameBorder="0" scrolling="no" allowFullScreen></iframe>
