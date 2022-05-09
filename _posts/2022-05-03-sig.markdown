@@ -1,9 +1,9 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2022-05-03
-# img: cabin.png
-# alt: image-alt
+img: sigchi22.png
+alt: SIG CHI'22 Screenshot
 project-date: May 3rd, 2022
 client: 
 title: SIG CHI'22
