@@ -8,11 +8,12 @@ project-date: May 3rd, 2022
 client: 
 title: SIG CHI'22
 category: SIG
-description: At CHI'22 we had an initial, virtual gathering of the community focused on mapping who is the data+design community and what is the terminology.
+description: Virtual gathering at CHI'22
 recording: Not Recorded
 location: Online, via CHI'22 programme
+speaker: Alejandra Gomez Ortega, Janne van Kollenburg, Jacky Bourgeois
 ---
 
-We collectivelly created the following Miro board: https://miro.com/app/board/uXjVO9kAiYw=/?share_link_id=550392868085
+We had an initial, virtual gathering of the community at CHI'22 in a SIG format. We focused on mapping who is the data+design community and what is the terminology We went through a series of interactive activies to find out who was attending, the qualitative and quantitative data in use and in which design process.
 
-Feel free to have a look and add your contribution on the map.
+We collectivelly created the following [Miro board](https://miro.com/app/board/uXjVO9kAiYw=/?share_link_id=550392868085). Feel free to have a look and add your contribution on the map.
