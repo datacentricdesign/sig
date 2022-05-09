@@ -5,7 +5,8 @@ date: 2022-05-03
 # img: cabin.png
 # alt: image-alt
 project-date: May 3rd, 2022
-client: CHI'22
+client: 
+title: SIG CHI'22
 category: SIG
 description: At CHI'22 we had an initial, virtual gathering of the community focused on mapping who is the data+design community and what is the terminology.
 ---
