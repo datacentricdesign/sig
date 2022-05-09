@@ -39,7 +39,7 @@ social:
     url: http://github.com/jekyll
 
 # Credits content
-credits: 'Open source Bootstrap 'Freelancer' by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Open source Bootstrap "Freelancer" by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
