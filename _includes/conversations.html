@@ -8,7 +8,7 @@
             </div>
             <div class="portfolio-flex-row">
                 <table>
-                    {% for post in site.posts %}
+                    {% for post in site.posts reversed %}
                     <tr>
                         <td>
                             <img src="img/conversations/{{ post.img }}" style="max-width:200px" alt="{{ post.alt }}">
