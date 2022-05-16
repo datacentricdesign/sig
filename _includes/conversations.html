@@ -11,29 +11,21 @@
                     {% for post in site.posts %}
                     <tr>
                         <td>
-                            Speaker: {{post.speaker}}
-                        </td>
-                        <td>
-                            Date: {{post.project-date}}
-                        </td>
-                        <td>
-                            Location: {{post.location}}
-                        </td>
-                        <td>
-                            Recording: {{post.recording}}
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
                             <img src="img/conversations/{{ post.img }}" style="max-width:200px" alt="{{ post.alt }}">
                         </td>
                         <td colspan="3" style="padding:10px">
                             <h3>{{post.title}}</h3>
+                            <p>
+                                By {{post.speaker}} on {{post.project-date}}. Location: {{post.location}}
+                            </p>
                             <h4>
                                 {{post.description}}
                             </h4>
                             <p>
                                 {{post.content}}
+                            </p>
+                            <p>
+                                Recording: {{post.recording}}
                             </p>
                         </td>
                     </tr>
