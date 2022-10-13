@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2022-10-13
-project-date: January 15th, 2023, 16:00 (Amsterdam time)
+project-date: January 12th, 2023, 16:00 (Amsterdam time)
 client: 
 title: Conversation 5
 speaker: TBA
