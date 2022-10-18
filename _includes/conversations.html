@@ -9,7 +9,7 @@
             <div class="portfolio-flex-row">
                 <table>
                     {% for post in site.posts reversed %}
-                    <tr>
+                    <tr id="event{{post.modal-id}}">
                         <td>
                             <img src="img/conversations/{{ post.img }}" style="max-width:200px" alt="{{ post.alt }}">
                         </td>
