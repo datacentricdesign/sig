@@ -11,7 +11,7 @@ speaker: Sandy Gould (Cardiff University, UK)
 category: Conversation
 description: "Data consumption and experiences in the research process."
 location: Online and Delft (NL) 
-recording: Will be recorded
+recording: https://archive.org/download/dcdlab-conversation-gould/conversation-gould.mp4
 ---
 
 Sandy Gould is a Senior Lecturer at the School of Computer Science and Informatics, Cardiff University. One of aspect of Sandy's research focuses on the ways that computing technology is affecting how we work and what it means to work. In particular, he has been investigating how people's work is tracked by digital technology (explicitly and implicitly) as they work, and how measures of work are constituted in workplaces.

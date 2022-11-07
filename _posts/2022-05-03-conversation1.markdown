@@ -11,7 +11,7 @@ speaker: Yvette Shen
 category: SIG
 description: "The Quantified and Qualified Self: Digitizing, visualizing, & introspection"
 location: Online (MS Teams) and TU Delft (NL) 
-recording: Available via MS Teams
+recording: https://archive.org/download/dcdlab-conversation-shen/conversation-shen.mp4
 ---
 
 This presentation discusses several university class-based design projects for helping learners better understand themselves and their surroundings while learning the fundamental knowledge and techniques of information design. The metacognitive learning approach illustrates the potential of using data-driven information design and information visualization as an empowerment tool to support the students’ well-being.

@@ -13,4 +13,4 @@ recording: Will be recorded
 ---
 
 * In Person: TU Delft Campus
-* Online: MS Teams (email us at [lab@datacentricdesign.org](mailto:lab@datacentricdesign.org) to join the community)
+* Online: Zoom link TBC
