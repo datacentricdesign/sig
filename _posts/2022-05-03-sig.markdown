@@ -1,18 +1,13 @@
 ---
 layout: post
-modal-id: 1
 date: 2022-05-03
-img: sigchi22.png
-alt: SIG CHI'22 Screenshot
-project-date: May 3rd, 2022
-client: 
 title: SIG CHI'22
-category: SIG
-description: Virtual gathering at CHI'22
-recording: Not Recorded
-location: Online, via CHI'22 programme
-speaker: Alejandra Gomez Ortega, Janne van Kollenburg, Jacky Bourgeois
+subtitle: Virtual gathering at CHI'22
 ---
+
+![SIG CHI'22](public/img/sigchi22.png)
+
+Organisers: Alejandra Gomez Ortega, Janne van Kollenburg, Jacky Bourgeois
 
 We had an initial, virtual gathering of the community at CHI'22 in a SIG format. We focused on mapping who is the data+design community and what is the terminology We went through a series of interactive activies to find out who was attending, the qualitative and quantitative data in use and in which design process.
 
