@@ -1,0 +1,16 @@
+---
+layout: post
+date: 2022-12-06
+---
+
+![Conversation with Samuel Bowyer](public/img/conversations/dcd-conversation-flyer-landscape-samuel.png)
+
+# Conversation with Samuel Huron
+
+## Making with Data
+
+* When: On Dec 15th, 2022, 16:00 (CET)
+* Where:
+    * In person: [TU Delft Campus, Building Pulse, Hall 7](https://esviewer.tudelft.nl/space/170/)
+    * Online: [Zoom Link](https://tudelft.zoom.us/j/92556276908?pwd=MFpMaDFmcFZtNXR1MDJGNW84aUxBZz09)
+* [Recording]() Coming soon!
