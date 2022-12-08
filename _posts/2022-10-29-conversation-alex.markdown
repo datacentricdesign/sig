@@ -1,23 +1,12 @@
 ---
 layout: post
-modal-id: 4
 date: 2022-10-29
-img: bowyer.jpg
-project-date: November 17th, 2022, 16:00 (CET)
-client: 
-title: Conversation 3
-speaker: Alex Bowyer (OpenLab, Newcastle University, UK)
-category: Conversation
-description: "."
-location: Online (Zoom) and TU Delft (NL) 
-recording: Will be recorded
+title: Conversation with Alex Bowyer
 ---
 
 ![Conversation with Alex Bowyer](public/img/conversations/dcd-conversation-flyer-landscape-alex.png)
 
-# Conversation with Alex Bowyer
-
-## Understanding and Designing Human Data Relations
+# Understanding and Designing Human Data Relations
 
 * When: On Nov 17th, 2022, 16:00 (CET)
 * Where:

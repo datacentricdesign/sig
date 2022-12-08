@@ -3,16 +3,10 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Setup
-title:            Data-Centric Design
-tagline:          'Data-Centric Design'
+title:            Data & Design
+tagline:          'Data & Design'
 description:      'HCI Special Interest Group on Data as Human-Centred Design Material'
 url:              http://datacentricdesign.com
 baseurl:          /
 
 paginate:         5
-
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/datacentricdesign/sig
