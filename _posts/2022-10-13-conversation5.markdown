@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 modal-id: 6
 date: 2022-10-13
 project-date: January 12th, 2023, 16:00 (Amsterdam time)

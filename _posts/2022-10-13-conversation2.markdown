@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 modal-id: 3
 date: 2022-10-13
 img: gould.jpg

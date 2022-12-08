@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 modal-id: 4
 date: 2022-11-07
 img: bowyer.jpg
