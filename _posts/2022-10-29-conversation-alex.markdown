@@ -1,12 +1,11 @@
 ---
 layout: post
 date: 2022-10-29
-title: Conversation with Alex Bowyer
+title: Understanding and Designing Human Data Relations
+subtitle: Conversation with Alex Bowyer
 ---
 
 ![Conversation with Alex Bowyer](public/img/conversations/dcd-conversation-flyer-landscape-alex.png)
-
-# Understanding and Designing Human Data Relations
 
 * When: On Nov 17th, 2022, 16:00 (CET)
 * Where:

@@ -1,12 +1,11 @@
 ---
 layout: post
 date: 2022-05-04
-title: Conversation with Yvette Shen 
+title: 'The Quantified and Qualified Self: Digitizing, visualizing, & introspection'
+subtitle: Conversation with Yvette Shen 
 ---
 
 ![Yvette Shen](public/img/conversations/shen.jpg)
-
-# The Quantified and Qualified Self: Digitizing, visualizing, & introspection
 
 * When: On May 31st, 2022 at 16:00 CEST
 * Where:

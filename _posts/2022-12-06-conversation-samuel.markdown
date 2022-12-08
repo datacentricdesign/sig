@@ -1,12 +1,13 @@
 ---
 layout: post
 date: 2022-12-06
-title: Conversation with Samuel Huron
+title: Making with Data
+subtitle: Conversation with Samuel Huron
 ---
 
 ![Conversation with Samuel Bowyer](public/img/conversations/dcd-conversation-flyer-landscape-samuel.png)
 
-# Making with Data
+# 
 
 * When: On Dec 15th, 2022, 16:00 (CET)
 * Where:

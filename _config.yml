@@ -6,7 +6,7 @@ highlighter:      pygments
 title:            Data & Design
 tagline:          'Data & Design'
 description:      'HCI Special Interest Group on Data as Human-Centred Design Material'
-url:              http://datacentricdesign.com
+url:              https://datacentricdesign.com
 baseurl:          /
 
 paginate:         5

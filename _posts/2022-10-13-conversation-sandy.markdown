@@ -1,12 +1,13 @@
 ---
 layout: post
 date: 2022-10-13
-title: Conversation with Sandy Gould
+title: Data consumption and experiences in the research process
+subtitle: Conversation with Sandy Gould
 ---
 
 ![Sandy Gould](public/img/conversations/gould.jpg)
 
-# Data consumption and experiences in the research process
+# 
 
 * When: On Oct 21st, 2022 at 16:00 CEST
 * Where:
