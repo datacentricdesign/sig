@@ -7,8 +7,6 @@ subtitle: Conversation with Samuel Huron
 
 ![Conversation with Samuel Bowyer](public/img/conversations/dcd-conversation-flyer-landscape-samuel.png)
 
-# 
-
 * When: On Dec 15th, 2022, 16:00 (CET)
 * Where:
     * In person: [TU Delft Campus, Building Pulse, Hall 7](https://esviewer.tudelft.nl/space/170/)

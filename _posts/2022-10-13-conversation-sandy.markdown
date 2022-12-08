@@ -7,8 +7,6 @@ subtitle: Conversation with Sandy Gould
 
 ![Sandy Gould](public/img/conversations/gould.jpg)
 
-# 
-
 * When: On Oct 21st, 2022 at 16:00 CEST
 * Where:
     * In person: [TU Delft Campus, Building Pulse, Hall 5](https://esviewer.tudelft.nl/space/168/)
