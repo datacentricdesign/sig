@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Symposium
+title: Data-Centric Design Symposium
 ---
 
 On June 1st, at the TU Delft Faculty of Industrial Design Engineering, we will celebrate the emerging field of Data-Centric Design and inaugurate the Data-Centric Design Lab. For this occasion, we will have keynotes, workshops, and exhibitions.
