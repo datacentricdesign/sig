@@ -13,6 +13,30 @@ title: About
 
 For more information, please read our submission [here](https://drive.google.com/file/d/1wGpUdHQ4ttFOTSdWXteOfjbrCsT6mYLx/view?usp=sharing).
 
+
+## Organisers (SIG CHI 2023)
+
+
+- [Alejandra Gomez Ortega](https://www.tudelft.nl/en/ide/about-ide/people/gomez-ortega-a)
+
+- [Peter Lovei](https://www.linkedin.com/in/ACoAAAdBGV8BIGc02W4qeepCefcbdufIimLmkkg?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BUEKW7cpgR8yPRUo7zLw2Hw%3D%3D)
+
+- [Renee Noortman](https://www.linkedin.com/in/ACoAABcsT0IBGKI8-g-BmUPnQbBPqrUt7blE8Zo?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BUEKW7cpgR8yPRUo7zLw2Hw%3D%3D)
+
+- [Romain Toebosch](https://www.linkedin.com/in/ACoAAEGdRj0BK71C6xhb81q2g6YAtVnD0qLq8HY?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BUEKW7cpgR8yPRUo7zLw2Hw%3D%3D)
+
+- [Albrecht Kurze](https://www.linkedin.com/in/ACoAADJvvz4BzOQ5XBviOKVDFS76zyB8zjanX-c?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BUEKW7cpgR8yPRUo7zLw2Hw%3D%3D)
+
+- [Mathias Funk](https://www.linkedin.com/in/ACoAAAEfxrsBaAPgkmD195IhiEfMVZwrYlPQsn8?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BUEKW7cpgR8yPRUo7zLw2Hw%3D%3D)
+
+- [Sandy Gould](https://www.linkedin.com/in/ACoAAANb4p8Bx0KxWFM_-_YOibFXvs-As51r9_Y?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BUEKW7cpgR8yPRUo7zLw2Hw%3D%3D)
+
+- [Samuel Huron](https://www.linkedin.com/in/ACoAAAJW65wBxdnH70sRvZgGOHuK9sv-LEC3iWI?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BUEKW7cpgR8yPRUo7zLw2Hw%3D%3D)
+
+- [Alex Bowyer](https://www.linkedin.com/in/alexbowyer/)
+
+- [Jacky Bourgeois](https://www.tudelft.nl/en/ide/about-ide/people/bourgeois-j)
+
 ## Organisers (SIG CHI 2022)
 
 - [Alejandra Gomez Ortega](https://www.tudelft.nl/en/ide/about-ide/people/gomez-ortega-a)
