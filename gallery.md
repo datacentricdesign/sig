@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Virtual Gallery
+title: Virtual Gallery of Projects
 ---
 
 As a community, we collect example of projects at the intersection of Data and Design, [add your project to our Virtual Gallery](https://airtable.com/shrg9OmAu9TLB4RBZ).
