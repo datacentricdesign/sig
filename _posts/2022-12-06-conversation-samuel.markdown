@@ -11,4 +11,4 @@ subtitle: Conversation with Samuel Huron
 * Where:
     * In person: [TU Delft Campus, Building Pulse, Hall 7](https://esviewer.tudelft.nl/space/170/)
     * Online: [Zoom Link](https://tudelft.zoom.us/j/92556276908?pwd=MFpMaDFmcFZtNXR1MDJGNW84aUxBZz09)
-* [Recording]() Coming soon!
+* [Recording](https://podcasts.apple.com/nl/podcast/conversation-with-samuel-huron-making-with-data/id1581554015?i=1000601951247)
