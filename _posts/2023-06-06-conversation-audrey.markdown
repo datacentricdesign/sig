@@ -11,8 +11,8 @@ Join us for an hour of conversation about Data-Centric Design with Audrey Desjar
 
 * When: On June 6th, 2023, 17:00 (CEST)
 * Where:
-    * In person: TU Delft Campus, (TBC) **Free Snacks and Drinks!**
-    * Online: [Link](https://edu.nl/wmrvb)
+    * In person: TU Delft Campus, IDE Arena **Free Snacks and Drinks!**
+    * Online: [Link](https://edu.nl/f7nbk)
 * [Recording]() Coming soon!
 
 A few words about Audrey - Trained as an industrial designer and interaction design researcher, Audrey Desjardins uses design as a way to critically reflect on people’s creative tactics to make, adapt, and transform their homes and to investigate potential futures in domestic spaces. She is an Associate Professor of Interaction Design in the School of Art + Art History + Design at the University of Washington, and adjunct associate professor in Human-Centered Design and Engineering and DXARTS. She is the founder and director of Studio Tilt, a design research studio. 
