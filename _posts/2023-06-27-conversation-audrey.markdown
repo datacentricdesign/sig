@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-06-06
+date: 2023-06-27
 title: On Data Imaginaries
 subtitle: Conversation with Audrey Desjardins
 ---
