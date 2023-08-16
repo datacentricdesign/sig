@@ -27,7 +27,6 @@ Opening door at 9:00
 - Keynote
 - Break
 - Short talks and discussions
-- Break
 - Lunch
 - Short talks and discussions
 - Break
