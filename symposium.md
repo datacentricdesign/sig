@@ -18,9 +18,6 @@ Whether you're an experienced human-centred data practitioner or new to the comm
 
 This program was initiated by the Data-Centric Design Lab of TU Delft Industrial Design Engineering in collaboration with TU Eindhoven Industrial Design, Cardiff University School of Computer Science and Informatics, and TU Chemnitz Chair Media Informatics. Our main sponsors are Open Science Community Delft and Frontiers.
 
-# Call for Participation
-
-
 # Program
 
 Tentative program:
