@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Microsoft Corporation//Outlook for Mac MIMEDIR//EN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna
+X-ENTOURAGE-CFTIMEZONE:Europe/Amsterdam
+X-ENTOURAGE-TZID:9
+BEGIN:STANDARD
+RRULE:FREQ=YEARLY;INTERVAL=1;BYSECOND=0;BYMINUTE=0;BYHOUR=3;BYDAY=-1SU;BYM
+ ONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+DTSTART:16011001T030000
+END:STANDARD
+BEGIN:DAYLIGHT
+RRULE:FREQ=YEARLY;INTERVAL=1;BYSECOND=0;BYMINUTE=0;BYHOUR=2;BYDAY=-1SU;BYM
+ ONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+DTSTART:16010301T020000
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:A69AD375-DC04-48DE-BA97-D66D32CFC4B8
+X-ENTOURAGE_UUID:A69AD375-DC04-48DE-BA97-D66D32CFC4B8
+X-MICROSOFT-EXCHANGE-ID:AAMkAGM0YjA5YzAzLWYxYzUtNGFlYy05NjU5LWVkNjQyODg4Nj
+ E5ZgBGAAAAAADQvXufEVs6R6/lX57tgRCcBwBNOPwZEJhLSroFn6yfc07CAAAATq3iAABfhute
+ 9rWBR5wksvlZ+JuYAAUaroPyAAA=
+CATEGORIES:
+X-MICROSOFT-EXCHANGE-CHANGEKEY:DwAAABYAAABfhute9rWBR5wksvlZ+JuYAAUbjeYO
+DTSTAMP:20230828T101408Z
+DTSTART;TZID="Amsterdam, Berlin, Bern, Rome, Stockholm,
+  Vienna":20231207T093000
+DTEND;TZID="Amsterdam, Berlin, Bern, Rome, Stockholm,
+  Vienna":20231207T170000
+LAST-MODIFIED:20230828T101408Z
+SUMMARY:Data-Centric Design Symposium
+DESCRIPTION:Building on the momentum of SIGs and workshops on data as
+  design material in the HCI community\, we are organising a Data-Centric
+  Design symposium and a Frontiers' Research Topic.\n\n \n\nWe aim to map
+  projects emerging from the community\, share the messiness of research
+  and design processes with data and surface good practices for effective
+  and responsible use of data.\n\n \n\nLead the discussion! Share your
+  perspective and experience with our growing community! \n\n \n\nSubmit
+  your abstract to the Research Topic and present your insights in-person
+  or online at the Data-Centric Design symposium. You will get to discuss
+  your work with like-minded colleagues and get feedback prior to the
+  final deadline. If accepted\, your work will be published in Frontiers
+  in Human Dynamics\n\n \n\nPlease get in touch with me with any further
+  questions.\n\n \n\nImportant dates\n\n \n\n- Abstract submission:
+  October 25 AoE\n\n- Notification of acceptance for the symposium:
+  November 10 AoE\n\n- Symposium: December 7 (Delft/Online)\n\n- Full
+  manuscript: February 25 (AoE)\n\n \n\nTentative program\n\n \n\nOpening
+  doors at 9:30 \n\n- Keynote\n\n- Break\n\n- Short talks and
+  discussions\n\n- Lunch\n\n- Short talks and discussions\n\n- Break\n\n-
+  Panel discussion\n\nClosing at 17:00 with networking and drinks\n\n
+  \n\nJacky Bourgeois\,\n\nOn behalf of the editorial team\, Mathias
+  Funk\, Sandy Gould\, Albrecht Kurze\, Alejandra Gomez Ortega\, Peter
+  Lovei and Renee Noortman\n
+LOCATION:X\, TU Delft\, Delft (NL) | Online
+ORGANIZER:MAILTO:J.Bourgeois@tudelft.nl
+SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-CDO-INSTTYPE:0
+END:VEVENT
+END:VCALENDAR
