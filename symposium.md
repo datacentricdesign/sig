@@ -3,6 +3,8 @@ layout: page
 title: Data-Centric Design Symposium
 ---
 
+![Data-Centric Design Symposium](public/img/symposium.png)
+
 We invite you to the first Data-Centric Design Symposium on Data as Human-Centred Design material. The symposium will be held on **December 7, 2023, at [X, on TU Delft campus](https://www.tudelft.nl/en/x/) and Online**.
 
 [Free registration via Evenbrite](https://www.eventbrite.com/e/data-centric-design-symposium-tickets-694277642117) | [Call for Participation](https://datacentricdesign.org/symposium#call-for-participation) | [Program](https://datacentricdesign.org/symposium#program)
@@ -70,13 +72,13 @@ We welcome abstracts in the following areas
 
 Contact us at [symposium@datacentricdesign.org](mailto:symposium@datacentricdesign.org)
 
-- [Jacky Bourgeois](https://jackybourgeois.com)
-- Mathias Funk
-- Sandy Gould
-- Albrecht Kurze
-- Alejandra Gomez Ortega
-- Peter Lovei
-- Renee Noortman
+- [Jacky Bourgeois](https://jackybourgeois.com), TU Delft (NL)
+- Mathias Funk, TU Eindhoven (NL)
+- Sandy Gould, Cardiff University (UK)
+- Albrecht Kurze, Chemnitz University (Germany)
+- Alejandra Gomez Ortega, TU Delft (NL)
+- Peter Lovei, TU Eindhoven (NL)
+- Renee Noortman, TU Eindhoven (NL)
 
 # Sponsors
 
