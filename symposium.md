@@ -65,7 +65,7 @@ We welcome abstracts in the following areas
 
 **After the Symposium**: we will invite authors of all accepted contributions to extend their contribution into a full paper and submit their work to the Research Topic 'Data-Centric Design' of the Frontiers journal on 'Human Dynamics'. See the [open call for February 25, 2024](https://www.frontiersin.org/research-topics/58823/data-centric-design-data-as-a-human-centred-material).
 
-**Submission Details**: please visit our [Research Topic webpage](https://www.frontiersin.org/research-topics/58823/data-centric-design-data-as-a-human-centred-material) and complete the online submission form. The deadline for submissions is **October 25, 2023**.
+**Submission Details**: please visit our [Research Topic webpage](https://www.frontiersin.org/research-topics/58823/data-centric-design-data-as-a-human-centred-material) and complete the online submission form with a **250-word abstract**. The deadline for submissions is **October 25, 2023**. 
 
 
 # Organisers
