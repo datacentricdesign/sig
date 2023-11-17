@@ -25,34 +25,34 @@ This program was initiated by the Data-Centric Design Lab of TU Delft Industrial
 9:30 | Door opening | 
 10:00 | Opening | Jacky Bourgeois 
 10:10 | Keynote: Redesigning Spotify through Mixed-Methods Research | Ingrid Pettersson, Spotify, Sweden
-| 10:45 | Break| |
-| 11:15 | **Conversation: Tangible Data, Tangible Design** | Host: Albrecht Kurze |
-| | Data Portraits: Personal Journeys for Engaging with Urban Cycling Data | Xavier Barriga Abril (Online) |
-| | Data Traces in the World and Their Impact on Data Physicalisation | Mary Karyda (In Person) |
-| | ParticipAIte: Leveraging interactive prototypes for reflective critique on AI-enabled dataflows between qualitative citizen perspectives and quantitative representations in urban planning | Carissa Champlin (In Person) |
-| | Tangible Consumption Data-Landscapes of Teenagers | Ayşe Özge Ağça (In Person) |
-| | Exploring Dynamic and Uncertain Data Structures in Prototypes | Renata Dezso (In Person) |
-| 12:00 | **Conversation: Storytelling x Data** | Host: Renée Noortman |
-| | Thickening Agents: designerly engagements with sensor data | Dave Murray-Rust (In Person) |
-| | Narrative Visualization of Self-Tracked Data: Bridging Personal Experiences with Data-Driven Well-being Support | Yvette Shen (Online) |
-| | Data By Me, You, and Us: Exploring 'Transformable Data Literacy' through Data Embodiment for Behaviour Changes | Jihyun Park (Online) |
-| | QuillGPT: Embodied Interaction with ChatGPT | Ahmet Börütecene (In Person) |
-| 12:45 | Lunch | |
-| 13:45 | **Conversation: Design Processes & Team Work x Data Practices** | Host: Peter Lovei |
-| | Designing Human-Data Interaction Experiences in Colorectal Cancer Surgery Prehabilitation | Irina Bianca Serban (In Person) |
-| | A review of Data-x Design and their activities in new product service development | Boyeun Lee (Online) |
-| | Can you Hear(t) me? Using Expressive Biosignals to Change Observer's Empathy While Watching PoV Ethnographic Video | Wouter Meijer (In Person) |
-| | Data as Design Material through the Lens of the Atlante Calvino Project | Miriah Meyer (In Person) |
-| | A human-centered design approach in data-intensive settings - Challenges and best practices as Human Data Interaction experts | Sam Vonk (In Person) |
-| 14:30 | **Conversation: Spaces, Tools and Skills** | Host: Alejandra Gomez Ortega |
-| | Rollercoasters and Research: Applying Data-Enabled Design to an Amusement Context | Sujithra Raviselvam (In Person) |
-| | The Walking Point: Inferences and techniques of human behaviour data in architecture practice | Angela Rout (In Person) |
-| | Didactic considerations in data-centric design | Jonas Löwgren (Online) |
-| | Reshaping Design Competencies: AI tools and Data-Driven Practices | Jonas Frich (In Person) |
-| | Co-badge: Fostering Collaboration through a Data Badge Design Activity | Damla Çay (In Person) |
-| 15:15 | Break |
-| 15:45 | Panel Discussion |
-| 16:45 | Closing and Drinks |
+10:45 | Break| |
+11:15 | **Conversation: Tangible Data, Tangible Design** | Host: Albrecht Kurze |
+| [Data Portraits: Personal Journeys for Engaging with Urban Cycling Data](#data-portraits-personal-journeys-for-engaging-with-urban-cycling-data) | Xavier Barriga Abril (Online) |
+| Data Traces in the World and Their Impact on Data Physicalisation | Mary Karyda (In Person) |
+| ParticipAIte: Leveraging interactive prototypes for reflective critique on AI-enabled dataflows between qualitative citizen perspectives and quantitative representations in urban planning | Carissa Champlin (In Person) |
+| Tangible Consumption Data-Landscapes of Teenagers | Ayşe Özge Ağça (In Person) |
+| Exploring Dynamic and Uncertain Data Structures in Prototypes | Renata Dezso (In Person) |
+12:00 | **Conversation: Storytelling x Data** | Host: Renée Noortman |
+| Thickening Agents: designerly engagements with sensor data | Dave Murray-Rust (In Person) |
+| Narrative Visualization of Self-Tracked Data: Bridging Personal Experiences with Data-Driven Well-being Support | Yvette Shen (Online) |
+| Data By Me, You, and Us: Exploring 'Transformable Data Literacy' through Data Embodiment for Behaviour Changes | Jihyun Park (Online) |
+| QuillGPT: Embodied Interaction with ChatGPT | Ahmet Börütecene (In Person) |
+12:45 | Lunch | |
+13:45 | **Conversation: Design Processes & Team Work x Data Practices** | Host: Peter Lovei |
+| Designing Human-Data Interaction Experiences in Colorectal Cancer Surgery Prehabilitation | Irina Bianca Serban (In Person) |
+| A review of Data-x Design and their activities in new product service development | Boyeun Lee (Online) |
+| Can you Hear(t) me? Using Expressive Biosignals to Change Observer's Empathy While Watching PoV Ethnographic Video | Wouter Meijer (In Person) |
+| Data as Design Material through the Lens of the Atlante Calvino Project | Miriah Meyer (In Person) |
+| A human-centered design approach in data-intensive settings - Challenges and best practices as Human Data Interaction experts | Sam Vonk (In Person) |
+14:30 | **Conversation: Spaces, Tools and Skills** | Host: Alejandra Gomez Ortega |
+| Rollercoasters and Research: Applying Data-Enabled Design to an Amusement Context | Sujithra Raviselvam (In Person) |
+| The Walking Point: Inferences and techniques of human behaviour data in architecture practice | Angela Rout (In Person) |
+| Didactic considerations in data-centric design | Jonas Löwgren (Online) |
+| Reshaping Design Competencies: AI tools and Data-Driven Practices | Jonas Frich (In Person) |
+| Co-badge: Fostering Collaboration through a Data Badge Design Activity | Damla Çay (In Person) |
+15:15 | Break |
+15:45 | Panel Discussion |
+16:45 | Closing and Drinks |
 
 
 # Keynote: Redesigning Spotify through Mixed-Methods Research
