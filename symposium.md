@@ -21,18 +21,50 @@ Whether you're an experienced human-centred data practitioner or new to the comm
 This program was initiated by the Data-Centric Design Lab of TU Delft Industrial Design Engineering in collaboration with TU Eindhoven Industrial Design, Cardiff University School of Computer Science and Informatics, and TU Chemnitz Chair Media Informatics. Our main sponsors are Open Science Community Delft and Frontiers.
 
 # Program
-
 | 9:30 | Door opening | |
 |---|---|---|
 | 10:00 | Opening | Jacky Bourgeois |
-| 10:10 | Keynote: Redesigning Spotify through Mixed-Methods Research<details><summary>Abstract</summary><p>Launching radical changes to loved and habitually used features, used by millions every day, presents a challenge both to the end user and the organization making the change. Ingrid will present an overview of how Product Insights at Spotify work and an example of how data science and user research collaborated during the latest redesign of the mobile Library feature at Spotify. The challenge required a high degree of sensitivity to users’ needs within what is often considered their space in the world of streaming. Close collaboration between the product, design, engineering, data science, and user research disciplines, with a focus on quantitative and qualitative mixed methods insight work in early development phases, enabled the experience to be launched with the users’ experience at the forefront.</p><p>Ingrid's work focuses on user research and user experience design, with the ambition to understand user needs and pain-points to make everyday life with technology seamless, valuable, and enjoyable. She has nearly two decades of experience in the field, combining management and user experience research in industry and academic research. She strongly believes in the power of data-driven decision-making and driving user-centric initiatives in her role as User Research Manager at Spotify, where she has focused on the core mobile app and strategic partnership experiences.</p></details> | Ingrid Pettersson, Spotify, Sweden |
-| 10:45 | Break|
-| 11:15 | **Conversation: Tangible Data, Tangible Design** | Session Chairs: Albrecht Kurze and Jacky Bourgeois
+| 10:10 | Keynote: Redesigning Spotify through Mixed-Methods Research | Ingrid Pettersson, Spotify, Sweden |
+| 10:45 | Break| |
+| 11:15 | **Conversation: Tangible Data, Tangible Design** | Host: Albrecht Kurze |
 | | Data Portraits: Personal Journeys for Engaging with Urban Cycling Data | Xavier Barriga Abril (Online) |
-| | <details><summary>Abstract</summary>A collection of virtual and physical data sculptures has been developed within the city, showcasing the movements of urban cyclists in Quito, Ecuador. These sculptures are the result of the creation of a set of interfaces designed for data collection (such as diaries and apps) and data representation (including digital maps and physical sculptures) within the city. This paper delves into the author's personal connection with the city through data. By documenting and mapping their most significant bicycle routes, the author creates a personal data-driven map using various tools. This methodology encourages an intimate relationship with data before entering collaborative environments, enabling deeper engagement with data and the critical examination of overarching trends.</details> | Pontificia Universidad Católica del Ecuador, Quito, Ecuador |
+| | Data Traces in the World and Their Impact on Data Physicalisation | Mary Karyda (In Person) |
+| | ParticipAIte: Leveraging interactive prototypes for reflective critique on AI-enabled dataflows between qualitative citizen perspectives and quantitative representations in urban planning | Carissa Champlin (In Person) |
+| | Tangible Consumption Data-Landscapes of Teenagers | Ayşe Özge Ağça (In Person) |
+| | Exploring Dynamic and Uncertain Data Structures in Prototypes | Renata Dezso (In Person) |
+| 12:00 | **Conversation: Storytelling x Data** | Host: Renée Noortman |
+| | Thickening Agents: designerly engagements with sensor data | Dave Murray-Rust (In Person) |
+| | Narrative Visualization of Self-Tracked Data: Bridging Personal Experiences with Data-Driven Well-being Support | Yvette Shen (Online) |
+| | Data By Me, You, and Us: Exploring 'Transformable Data Literacy' through Data Embodiment for Behaviour Changes | Jihyun Park (Online) |
+| | QuillGPT: Embodied Interaction with ChatGPT | Ahmet Börütecene (In Person) |
+| 12:45 | Lunch | |
+| 13:45 | **Conversation: Design Processes & Team Work x Data Practices** | Host: Peter Lovei |
+| | Designing Human-Data Interaction Experiences in Colorectal Cancer Surgery Prehabilitation | Irina Bianca Serban (In Person) |
+| | A review of Data-x Design and their activities in new product service development | Boyeun Lee (Online) |
+| | Can you Hear(t) me? Using Expressive Biosignals to Change Observer's Empathy While Watching PoV Ethnographic Video | Wouter Meijer (In Person) |
+| | Data as Design Material through the Lens of the Atlante Calvino Project | Miriah Meyer (In Person) |
+| | A human-centered design approach in data-intensive settings - Challenges and best practices as Human Data Interaction experts | Sam Vonk (In Person) |
+| 14:30 | **Conversation: Spaces, Tools and Skills** | Host: Alejandra Gomez Ortega |
+| | Rollercoasters and Research: Applying Data-Enabled Design to an Amusement Context | Sujithra Raviselvam (In Person) |
+| | The Walking Point: Inferences and techniques of human behaviour data in architecture practice | Angela Rout (In Person) |
+| | Didactic considerations in data-centric design | Jonas Löwgren (Online) |
+| | Reshaping Design Competencies: AI tools and Data-Driven Practices | Jonas Frich (In Person) |
+| | Co-badge: Fostering Collaboration through a Data Badge Design Activity | Damla Çay (In Person) |
+| 15:15 | Break |
+| 15:45 | Panel Discussion |
+| 16:45 | Closing and Drinks |
 
 
+# Keynote: Redesigning Spotify through Mixed-Methods Research
+### 10:10-10:45 | Ingrid Pettersson, Spotify, Sweden
 
+<details>
+<summary>Abstract</summary>
+<p>Launching radical changes to loved and habitually used features, used by millions every day, presents a challenge both to the end user and the organization making the change. Ingrid will present an overview of how Product Insights at Spotify work and an example of how data science and user research collaborated during the latest redesign of the mobile Library feature at Spotify. The challenge required a high degree of sensitivity to users’ needs within what is often considered their space in the world of streaming. Close collaboration between the product, design, engineering, data science, and user research disciplines, with a focus on quantitative and qualitative mixed methods insight work in early development phases, enabled the experience to be launched with the users’ experience at the forefront.</p><p>Ingrid's work focuses on user research and user experience design, with the ambition to understand user needs and pain-points to make everyday life with technology seamless, valuable, and enjoyable. She has nearly two decades of experience in the field, combining management and user experience research in industry and academic research. She strongly believes in the power of data-driven decision-making and driving user-centric initiatives in her role as User Research Manager at Spotify, where she has focused on the core mobile app and strategic partnership experiences.</p>
+</details>
+
+# Conversation: Tangible Data, Tangible Design
+### 11:00-12:00 | Session Chairs: Renée and Alejandra Gomez Ortega
 
 ## Data Portraits: Personal Journeys for Engaging with Urban Cycling Data
 ### Xavier Barriga Abril (Online)
@@ -41,7 +73,6 @@ This program was initiated by the Data-Centric Design Lab of TU Delft Industrial
 <summary>Abstract</summary>
 A collection of virtual and physical data sculptures has been developed within the city, showcasing the movements of urban cyclists in Quito, Ecuador. These sculptures are the result of the creation of a set of interfaces designed for data collection (such as diaries and apps) and data representation (including digital maps and physical sculptures) within the city. This paper delves into the author's personal connection with the city through data. By documenting and mapping their most significant bicycle routes, the author creates a personal data-driven map using various tools. This methodology encourages an intimate relationship with data before entering collaborative environments, enabling deeper engagement with data and the critical examination of overarching trends.
 </details>
-
 ## Data Traces in the World and Their Impact on Data Physicalisation
 ### Mary Karyda, Damla Cay, Kitti Butter (In Person)
 **Moholy-Nagy University of Art and Design, Budapest, Hungary**
@@ -74,7 +105,7 @@ This study focuses on the transformative role of digitally fabricated prosthetic
 </details>
 
 # Storytelling x Data
-### 12:00-12:45 | Session Chairs: Renée and Alejandra Gomez Ortega
+### 12:00-12:45 | Session Chairs: Renée Noortman and Alejandra Gomez Ortega
 
 ## Thickening Agents: designerly engagements with sensor data
 ### Dave Murray-Rust, Jacky Bourgeois, Abhigyan Singh (In Person)
