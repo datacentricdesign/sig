@@ -21,10 +21,12 @@ Whether you're an experienced human-centred data practitioner or new to the comm
 This program was initiated by the Data-Centric Design Lab of TU Delft Industrial Design Engineering in collaboration with TU Eindhoven Industrial Design, Cardiff University School of Computer Science and Informatics, and TU Chemnitz Chair Media Informatics. Our main sponsors are Open Science Community Delft and Frontiers.
 
 # Program
- 9:30 | Door opening | 
----|---|---
- 10:00 | Opening | Jacky Bourgeois 
- 10:10 | Keynote: Redesigning Spotify through Mixed-Methods Research | Ingrid Pettersson, Spotify, Sweden 
+
+9:30 | Door opening | 
+10:00 | Opening | Jacky Bourgeois 
+10:10 | Keynote: Redesigning Spotify through Mixed-Methods Research | Ingrid Pettersson, Spotify, Sweden
+
+
 | 10:45 | Break| |
 | 11:15 | **Conversation: Tangible Data, Tangible Design** | Host: Albrecht Kurze |
 | | Data Portraits: Personal Journeys for Engaging with Urban Cycling Data | Xavier Barriga Abril (Online) |
