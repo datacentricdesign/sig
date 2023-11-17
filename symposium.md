@@ -30,7 +30,7 @@ Opening door at 9:30 | X, TU Delft, NL | Online
 ### 10:00-10:10 | Jacky Bourgeois
 
 # Keynote: Redesigning Spotify through Mixed-Methods Research
-### 10:10-10:45 | Ingri Pettersson
+### 10:10-10:45 | Ingrid Pettersson
 **Spotify, Sweden**
 
 Launching radical changes to loved and habitually used features, used by millions every day, presents a challenge both to the end user and the organization making the change. Ingrid will present an overview of how Product Insights at Spotify work and an example of how data science and user research collaborated during the latest redesign of the mobile Library feature at Spotify. The challenge required a high degree of sensitivity to users’ needs within what is often considered their space in the world of streaming. Close collaboration between the product, design, engineering, data science, and user research disciplines, with a focus on quantitative and qualitative mixed methods insight work in early development phases, enabled the experience to be launched with the users’ experience at the forefront.  
