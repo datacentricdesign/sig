@@ -22,20 +22,18 @@ This program was initiated by the Data-Centric Design Lab of TU Delft Industrial
 
 # Program
 
-Tentative program:
-
-|9:30| Door opening |
-|10:00| Opening | Jacky Bourgeois|
-|10:10 | Keynote: Redesigning Spotify through Mixed-Methods Research<details><summary>Abstract</summary><p>Launching radical changes to loved and habitually used features, used by millions every day, presents a challenge both to the end user and the organization making the change. Ingrid will present an overview of how Product Insights at Spotify work and an example of how data science and user research collaborated during the latest redesign of the mobile Library feature at Spotify. The challenge required a high degree of sensitivity to users’ needs within what is often considered their space in the world of streaming. Close collaboration between the product, design, engineering, data science, and user research disciplines, with a focus on quantitative and qualitative mixed methods insight work in early development phases, enabled the experience to be launched with the users’ experience at the forefront.</p><p>
+| 9:30 | Door opening |
+| 10:00 | Opening | Jacky Bourgeois |
+| 10:10 | Keynote: Redesigning Spotify through Mixed-Methods Research<details><summary>Abstract</summary><p>Launching radical changes to loved and habitually used features, used by millions every day, presents a challenge both to the end user and the organization making the change. Ingrid will present an overview of how Product Insights at Spotify work and an example of how data science and user research collaborated during the latest redesign of the mobile Library feature at Spotify. The challenge required a high degree of sensitivity to users’ needs within what is often considered their space in the world of streaming. Close collaboration between the product, design, engineering, data science, and user research disciplines, with a focus on quantitative and qualitative mixed methods insight work in early development phases, enabled the experience to be launched with the users’ experience at the forefront.</p><p>
 Ingrid's work focuses on user research and user experience design, with the ambition to understand user needs and pain-points to make everyday life with technology seamless, valuable, and enjoyable. She has nearly two decades of experience in the field, combining management and user experience research in industry and academic research. She strongly believes in the power of data-driven decision-making and driving user-centric initiatives in her role as User Research Manager at Spotify, where she has focused on the core mobile app and strategic partnership experiences.</p>
-</details>| Ingrid Pettersson, Spotify, Sweden|
-|10:45 | Break|
-|11:15 | Tangible Data, Tangible Design | Session Chairs: Albrecht Kurze and Jacky Bourgeois
-||Data Portraits: Personal Journeys for Engaging with Urban Cycling Data. Xavier Barriga Abril (Online). Pontificia Universidad Católica del Ecuador, Quito, Ecuador
+</details>| Ingrid Pettersson, Spotify, Sweden |
+| 10:45 | Break|
+| 11:15 | Tangible Data, Tangible Design | Session Chairs: Albrecht Kurze and Jacky Bourgeois
+| | Data Portraits: Personal Journeys for Engaging with Urban Cycling Data. Xavier Barriga Abril (Online). Pontificia Universidad Católica del Ecuador, Quito, Ecuador
 <details>
 <summary>Abstract</summary>
 A collection of virtual and physical data sculptures has been developed within the city, showcasing the movements of urban cyclists in Quito, Ecuador. These sculptures are the result of the creation of a set of interfaces designed for data collection (such as diaries and apps) and data representation (including digital maps and physical sculptures) within the city. This paper delves into the author's personal connection with the city through data. By documenting and mapping their most significant bicycle routes, the author creates a personal data-driven map using various tools. This methodology encourages an intimate relationship with data before entering collaborative environments, enabling deeper engagement with data and the critical examination of overarching trends.
-</details>||
+</details> | |
 
 
 
