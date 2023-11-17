@@ -25,9 +25,9 @@ This program was initiated by the Data-Centric Design Lab of TU Delft Industrial
 Tentative program:
 
 Opening door at 9:30 | X, TU Delft, NL | Online
-
 10:00 | Opening | Jacky Bourgeois
 10:10 | Keynote | Ingrid Pettersson
+
 **Redesigning Spotify through Mixed-Methods Research**
 Spotify, Sweden
 <details>
@@ -36,6 +36,7 @@ Launching radical changes to loved and habitually used features, used by million
 
 Ingrid's work focuses on user research and user experience design, with the ambition to understand user needs and pain-points to make everyday life with technology seamless, valuable, and enjoyable. She has nearly two decades of experience in the field, combining management and user experience research in industry and academic research. She strongly believes in the power of data-driven decision-making and driving user-centric initiatives in her role as User Research Manager at Spotify, where she has focused on the core mobile app and strategic partnership experiences.
 </details>
+
 10:45 | Break
 11:15 | Tangible Data, Tangible Design | Session Chairs: Albrecht Kurze and Jacky Bourgeois
 
