@@ -46,8 +46,11 @@ Ingrid's work focuses on user research and user experience design, with the ambi
 ## Data Portraits: Personal Journeys for Engaging with Urban Cycling Data
 ### Xavier Barriga Abril (Online)
 **Pontificia Universidad Católica del Ecuador, Quito, Ecuador**
-
+<details>
+<summary>Abstract</summary>
 A collection of virtual and physical data sculptures has been developed within the city, showcasing the movements of urban cyclists in Quito, Ecuador. These sculptures are the result of the creation of a set of interfaces designed for data collection (such as diaries and apps) and data representation (including digital maps and physical sculptures) within the city. This paper delves into the author's personal connection with the city through data. By documenting and mapping their most significant bicycle routes, the author creates a personal data-driven map using various tools. This methodology encourages an intimate relationship with data before entering collaborative environments, enabling deeper engagement with data and the critical examination of overarching trends.
+</details>
+
 ## Data Traces in the World and Their Impact on Data Physicalisation
 ### Mary Karyda, Damla Cay, Kitti Butter (In Person)
 **Moholy-Nagy University of Art and Design, Budapest, Hungary**
@@ -93,8 +96,10 @@ Designers face increasing complexity in their design process. They are not desig
 ## Narrative Visualization of Self-Tracked Data: Bridging Personal Experiences with Data-Driven Well-being Support
 ### Yvette Shen (Online)
 **The Ohio State University, Columbus, United States**
-
+<details>
+<summary>Abstract</summary>
 In the evolving landscape of self-tracking tools, raw data becomes truly transformative when presented as a holistic narrative. This study explores "Narrative Visualization," a method that melds storytelling techniques with data visualization, offering users a comprehensive view of their data-driven journey. Leveraging the story spine framework, complemented by thematic groupings and contextual markers, this approach underscores individual achievements, experiences, and patterns. By integrating principles of positive psychology, narrative visualization moves beyond just numbers to shed light on the human narratives underlying the data. This paper highlights narrative visualization's potential to shift the way individuals interpret and derive meaning from their self-tracked data, thereby enhancing self-awareness, fostering personal growth, and supporting an individual’s well-being.
+</details>
 
 ## Data By Me, You, and Us: Exploring 'Transformable Data Literacy' through Data Embodiment for Behaviour Changes
 ### Jihyun Park (Online)
