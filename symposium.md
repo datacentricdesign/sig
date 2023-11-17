@@ -24,21 +24,17 @@ This program was initiated by the Data-Centric Design Lab of TU Delft Industrial
 
 Tentative program:
 
-Opening door at 9:30 | X, TU Delft, NL | Online
-10:00 | Opening | Jacky Bourgeois
-10:10 | Keynote | Ingrid Pettersson
-
-**Redesigning Spotify through Mixed-Methods Research**
-Spotify, Sweden
-<details>
-<summary>Abstract</summary>
-Launching radical changes to loved and habitually used features, used by millions every day, presents a challenge both to the end user and the organization making the change. Ingrid will present an overview of how Product Insights at Spotify work and an example of how data science and user research collaborated during the latest redesign of the mobile Library feature at Spotify. The challenge required a high degree of sensitivity to users’ needs within what is often considered their space in the world of streaming. Close collaboration between the product, design, engineering, data science, and user research disciplines, with a focus on quantitative and qualitative mixed methods insight work in early development phases, enabled the experience to be launched with the users’ experience at the forefront.  
+|9:30| Door opening |
+|10:00| Opening | Jacky Bourgeois|
+|10:10 | Keynote | Ingrid Pettersson
+| |**Redesigning Spotify through Mixed-Methods Research**|Spotify, Sweden|
+||<details><summary>Abstract</summary>Launching radical changes to loved and habitually used features, used by millions every day, presents a challenge both to the end user and the organization making the change. Ingrid will present an overview of how Product Insights at Spotify work and an example of how data science and user research collaborated during the latest redesign of the mobile Library feature at Spotify. The challenge required a high degree of sensitivity to users’ needs within what is often considered their space in the world of streaming. Close collaboration between the product, design, engineering, data science, and user research disciplines, with a focus on quantitative and qualitative mixed methods insight work in early development phases, enabled the experience to be launched with the users’ experience at the forefront.  
 
 Ingrid's work focuses on user research and user experience design, with the ambition to understand user needs and pain-points to make everyday life with technology seamless, valuable, and enjoyable. She has nearly two decades of experience in the field, combining management and user experience research in industry and academic research. She strongly believes in the power of data-driven decision-making and driving user-centric initiatives in her role as User Research Manager at Spotify, where she has focused on the core mobile app and strategic partnership experiences.
-</details>
+</details>|
+|10:45 | Break|
+|11:15 | Tangible Data, Tangible Design | Session Chairs: Albrecht Kurze and Jacky Bourgeois
 
-10:45 | Break
-11:15 | Tangible Data, Tangible Design | Session Chairs: Albrecht Kurze and Jacky Bourgeois
 
 ## Data Portraits: Personal Journeys for Engaging with Urban Cycling Data
 ### Xavier Barriga Abril (Online)
