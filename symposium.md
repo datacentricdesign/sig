@@ -152,7 +152,6 @@ Framing our interactions with data as a process of design-after-design, Feinberg
 1. Feinberg, M., 2017, May. A design perspective on data. In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (pp. 2952-2963).
 2. Elli, T., Briones Rojas, M., Gobbo, B., Parigini, M., Giustetto, V., Cavalloro, V. and Mauri, M., 2021. Metaphors as Knowledge Activators in Data Visualizations: the case of the Archipelago of Calvino's literary works. In CUMULUS CONFERENCE PROCEEDINGS SERIES (Vol. 2, pp. 906-924). Aalto University.
 3. https://atlantecalvino.unige.ch/
-</details>
 
 #### A human-centered design approach in data-intensive settings - Challenges and best practices as Human Data Interaction experts
 ##### Sam Vonk, Wisse van Woerkom
@@ -175,7 +174,6 @@ Data-Enabled Design (DED) is a design approach where research data is integrated
 Delft University of Technology, Delft, The Netherlands
 
 "A line is a point that went for a walk" - Paul Klee It is a simple gesture; to draw a line over a map and say: “this is the way we walk”. And while this gesture has been used for centuries to articulate human movement trajectories on maps - how does this line translate to the domain of architecture, where the surface is no longer a map, but a floor plan? This presentation examines the point-walking-across-a-floor-plan as a means to represent and record information about human travel and experience, through data, representation, and design. In data collection and analysis, lines: a sequence of connected points, are loaded with assumptions about human behaviour and occupancy. In visual representation, architects use various visual techniques when drawing lines-as-trajectories to express meta information about human experience. During design, architects interpret the point-walking-across-a-floor-plan in three (sometimes four) dimensions, and then configure new spaces, based on a line’s trajectory. In this study, we explore the techniques and the related inferences of behaviour data through examination of text and images in architectural literature. We then conduct interviews with architects to understand how the visual representation of a line-as-trajectory is interpreted by practising architects. This research has implications for data visualisation, digital tools, and decision support for building designs that better respond to human behaviours and occupancy.
-</details>
 
 #### Didactic considerations in data-centric design
 ##### Jonas Löwgren, Miriah Meyer, Niklas Rönnberg, Katerina Vrotsou
@@ -206,7 +204,6 @@ Data-centric design approaches are increasing and are widely adopted in technolo
 Moholy-Nagy University of Art and Design, Budapest, Hungary
 
 As visualization tools become widespread across various disciplines and among non-visualization experts, there's a rising need for methods that enhance creative collaboration in data visualization. Constructive visualization utilizes intuitive knowledge of physical building blocks to empower non-experts to create unique visualizations. Previously, data badges—a form of constructive visualization—have been utilized where participants constructed physicalizations individually, with predefined data dimensions. In this paper, we introduce Co-Badge, a 90-minute design activity where participants collaboratively construct visualizations by ideating and prioritizing relevant data types, mapping them to visual variables, and constructing data badges with stationary materials. We conducted three workshops in diverse settings (summer school, university onboarding day, and team-building event) with participants of different backgrounds. Our findings indicate that Co-badge facilitates a playful and engaging way to gain initial insights into the stages of data visualization while navigating the challenges of collaborative data visualization. Through this activity, participants became aware of the key aspects of visualization without a formal introduction, such as the importance of appropriately matching data types with visual variables and avoiding oversimplification. Our work contributes to the field of data-centric design by highlighting the significance of collaboration in engaging with data. We believe Co-Badge can serve as an effective ice-breaker and educational tool that introduces fundamental concepts of data visualization and collaboration, ultimately enhancing the quality of collaborative data visualization projects.
-</details>
 
 
 # Call for Participation
