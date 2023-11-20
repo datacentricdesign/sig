@@ -143,7 +143,6 @@ In the era of Industry 4.0, characterized by the stimulation of digitalization t
 Delft University of Technology, Delft, The Netherlands
 
 Point of View (PoV) video ethnography provides a detailed perspective on user experiences, but lacks social cues. Studies have demonstrated that incorporating "Expressive Biosignals" enhances interpersonal empathy in situations where social signals are limited. In this study, we investigated the effect of Expressive Biosignals on observer empathy via a between-subjects design. Forty-five participants viewed a point-of-view video of a bike ride under one of three conditions: standard video, video accompanied by a heart rate graph, and video with audible heartbeats. Results indicate that the audible condition significantly decreases the mean error of the observer's valence prediction for the cyclist. Follow-up analysis revealed a correlation between the Measure of State Empathy and empathy factors examined in Design Research. Additionally, it indicated that observers established a more profound connection with subject emotions. These findings demonstrate how the audible condition modifies observer empathy, aligning empathy in both HCI and Design Research.
-</details>
 
 #### Data as Design Material through the Lens of the Atlante Calvino Project
 ##### Miriah Meyer
