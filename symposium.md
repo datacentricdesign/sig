@@ -7,7 +7,7 @@ title: Data-Centric Design Symposium
 
 We invite you to the first Data-Centric Design Symposium on Data as Human-Centred Design material. The symposium will be held on **December 7, 2023, at [X, on TU Delft campus](https://www.tudelft.nl/en/x/) and Online**.
 
-🎟️[Free registration](https://www.eventbrite.com/e/data-centric-design-symposium-tickets-694277642117) | 📢[Call for Participation](https://datacentricdesign.org/symposium#call-for-participation) | 📝[Program](https://datacentricdesign.org/symposium#program) | 📍[Venue]([public/dcd-symposium.ics](https://datacentricdesign.org/symposium#venue))
+🎟️[Free registration](https://www.eventbrite.com/e/data-centric-design-symposium-tickets-694277642117) | 📢[Call for Participation](https://datacentricdesign.org/symposium#call-for-participation) | 📝[Program](https://datacentricdesign.org/symposium#program) | 📍[Venue](https://datacentricdesign.org/symposium#venue)
 
 
 You'll be able to join fellow human-centred researchers and practitioners to map perspectives and experiences on designing with data. **Data-Centric Design** leverages data as material for subjective inquiry, an entry point to better understand human dynamics through deeper reflection in a research or design process. In this context, data presents unique opportunities and challenges; practices have yet to emerge to understand how they transform the role and processes of researchers.
