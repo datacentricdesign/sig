@@ -7,7 +7,7 @@ title: Data-Centric Design Symposium
 
 We invite you to the first Data-Centric Design Symposium on Data as Human-Centred Design material. The symposium will be held on **December 7, 2023, at [X, on TU Delft campus](https://www.tudelft.nl/en/x/) and Online**.
 
-🎟️[Free registration](https://www.eventbrite.com/e/data-centric-design-symposium-tickets-694277642117) | 📢[Call for Participation](https://datacentricdesign.org/symposium#call-for-participation) | 📝[Program](https://datacentricdesign.org/symposium#program) | 📅[Save the Data (ICS)](public/dcd-symposium.ics)
+🎟️[Free registration](https://www.eventbrite.com/e/data-centric-design-symposium-tickets-694277642117) | 📢[Call for Participation](https://datacentricdesign.org/symposium#call-for-participation) | 📝[Program](https://datacentricdesign.org/symposium#program) | 📅[Venue](public/dcd-symposium.ics)
 
 
 You'll be able to join fellow human-centred researchers and practitioners to map perspectives and experiences on designing with data. **Data-Centric Design** leverages data as material for subjective inquiry, an entry point to better understand human dynamics through deeper reflection in a research or design process. In this context, data presents unique opportunities and challenges; practices have yet to emerge to understand how they transform the role and processes of researchers.
@@ -205,6 +205,20 @@ Moholy-Nagy University of Art and Design, Budapest, Hungary
 
 As visualization tools become widespread across various disciplines and among non-visualization experts, there's a rising need for methods that enhance creative collaboration in data visualization. Constructive visualization utilizes intuitive knowledge of physical building blocks to empower non-experts to create unique visualizations. Previously, data badges—a form of constructive visualization—have been utilized where participants constructed physicalizations individually, with predefined data dimensions. In this paper, we introduce Co-Badge, a 90-minute design activity where participants collaboratively construct visualizations by ideating and prioritizing relevant data types, mapping them to visual variables, and constructing data badges with stationary materials. We conducted three workshops in diverse settings (summer school, university onboarding day, and team-building event) with participants of different backgrounds. Our findings indicate that Co-badge facilitates a playful and engaging way to gain initial insights into the stages of data visualization while navigating the challenges of collaborative data visualization. Through this activity, participants became aware of the key aspects of visualization without a formal introduction, such as the importance of appropriately matching data types with visual variables and avoiding oversimplification. Our work contributes to the field of data-centric design by highlighting the significance of collaboration in engaging with data. We believe Co-Badge can serve as an effective ice-breaker and educational tool that introduces fundamental concepts of data visualization and collaboration, ultimately enhancing the quality of collaborative data visualization projects.
 
+# Venue
+
+The Data-Centric Design Symposium will be held in Delft, the Netherlands (and online via MS Teams).
+
+```
+X, TU Delft
+Building 37
+Mekelweg 8
+2628 CD Delft (Netherlands)
+Tel +31 15 278 9807
+```
+
+- If you are coming by bus from Delft Central Station [check the updated Bus route due to Tram construction](https://www.tudelft.nl/en/2023/x/july/accessibility-x-work-on-the-tramway-on-campus).
+- If you are coming by car, the closest car park is P2/Sports. Check the [visitor tab of the TU Delft Parking policy](https://www.tudelft.nl/en/about-tu-delft/contact-and-campus/parking-policy) for all details
 
 # Call for Participation
 
