@@ -62,7 +62,7 @@ Launching radical changes to loved and habitually used features, used by million
 Ingrid's work focuses on user research and user experience design, with the ambition to understand user needs and pain-points to make everyday life with technology seamless, valuable, and enjoyable. She has nearly two decades of experience in the field, combining management and user experience research in industry and academic research. She strongly believes in the power of data-driven decision-making and driving user-centric initiatives in her role as User Research Manager at Spotify, where she has focused on the core mobile app and strategic partnership experiences.</p>
 
 ## Conversation: Tangible Data, Tangible Design
-#### 11:00-12:00 | Session Chairs: Renée and Alejandra Gomez Ortega
+#### 11:00-12:00 | Session Chairs: Albrecht Kurze
 
 #### Data Portraits: Personal Journeys for Engaging with Urban Cycling Data
 ##### Xavier Barriga Abril
