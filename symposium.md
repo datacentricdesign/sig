@@ -8,8 +8,10 @@ title: Data-Centric Design Symposium
 We invite you to the first Data-Centric Design Symposium on Data as Human-Centred Design material. The symposium will be held on **December 7, 2023, at [X, on TU Delft campus](https://www.tudelft.nl/en/x/) and Online**.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/H35lGFOWYQ4?si=YxI0lonywx_Sbori" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Impression movie by [NewMedia Centre](https://newmediacentre.tudelft.nl/)
 
 ![Data-Centric Design Symposium - Visual Notes by Sterre Wiltox](public/img/symposium-notes.jpg)
+Visual Notes by [Sterre Wiltox](https://www.linkedin.com/in/sterrewitlox/)
 
 🎟️[Free registration](https://www.eventbrite.com/e/data-centric-design-symposium-tickets-694277642117) | 📢[Call for Participation](https://datacentricdesign.org/symposium#call-for-participation) | 📝[Program](https://datacentricdesign.org/symposium#program) | 📍[Venue](https://datacentricdesign.org/symposium#venue)
 
@@ -62,6 +64,7 @@ This program was initiated by the Data-Centric Design Lab of TU Delft Industrial
 #### 10:10-10:45 | Ingrid Pettersson, Spotify, Sweden
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zXd0486czWM?si=wKTHiSCACQyflScQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Recording by [NewMedia Centre](https://newmediacentre.tudelft.nl/)
 
 Launching radical changes to loved and habitually used features, used by millions every day, presents a challenge both to the end user and the organization making the change. Ingrid will present an overview of how Product Insights at Spotify work and an example of how data science and user research collaborated during the latest redesign of the mobile Library feature at Spotify. The challenge required a high degree of sensitivity to users’ needs within what is often considered their space in the world of streaming. Close collaboration between the product, design, engineering, data science, and user research disciplines, with a focus on quantitative and qualitative mixed methods insight work in early development phases, enabled the experience to be launched with the users’ experience at the forefront.
 
@@ -71,6 +74,7 @@ Ingrid's work focuses on user research and user experience design, with the ambi
 #### 11:00-12:00 | Session Chairs: Albrecht Kurze
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jYGYXMJILiQ?si=sGtu0lKoZdyxreLX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Recording by [NewMedia Centre](https://newmediacentre.tudelft.nl/)
 
 #### Data Portraits: Personal Journeys for Engaging with Urban Cycling Data
 ##### Xavier Barriga Abril
@@ -134,6 +138,7 @@ Can we create more embodied ways to interact with AI technologies and generate d
 #### 13:45-14:30 | Session Chairs: Peter Lovey and Mathias Funk
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nUDzOjeMJds?si=Y5WeFQmYY4qE_c_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Recording by [NewMedia Centre](https://newmediacentre.tudelft.nl/)
 
 #### Designing Human-Data Interaction Experiences in Colorectal Cancer Surgery Prehabilitation
 ##### Irina Bianca Serban (1), Dimitra Dritsa (1), Israel Campero Jurado (1), Steven Houben (1), Aarnout Brombacher (1), David Ten Cate (2), Loes Janssen (2), Margot Heijmans (2)
