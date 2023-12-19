@@ -7,6 +7,8 @@ title: Data-Centric Design Symposium
 
 We invite you to the first Data-Centric Design Symposium on Data as Human-Centred Design material. The symposium will be held on **December 7, 2023, at [X, on TU Delft campus](https://www.tudelft.nl/en/x/) and Online**.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/H35lGFOWYQ4?si=YxI0lonywx_Sbori" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 🎟️[Free registration](https://www.eventbrite.com/e/data-centric-design-symposium-tickets-694277642117) | 📢[Call for Participation](https://datacentricdesign.org/symposium#call-for-participation) | 📝[Program](https://datacentricdesign.org/symposium#program) | 📍[Venue](https://datacentricdesign.org/symposium#venue)
 
 
