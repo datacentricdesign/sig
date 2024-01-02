@@ -65,7 +65,7 @@ This program was initiated by the Data-Centric Design Lab of TU Delft Industrial
 ## Keynote: Redesigning Spotify through Mixed-Methods Research
 #### 10:10-10:45 | Ingrid Pettersson, Spotify, Sweden
 
-<video controls>
+<video controls style="width:560px;height:315px">
   <source src="https://archive.org/download/dcd-symposium/dcd-symposium-keynote.mp4" type="video/mp4">
 </video>
 
@@ -78,8 +78,11 @@ Ingrid's work focuses on user research and user experience design, with the ambi
 ## Conversation: Tangible Data, Tangible Design
 #### 11:00-12:00 | Session Chairs: Albrecht Kurze
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jYGYXMJILiQ?si=sGtu0lKoZdyxreLX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-Recording by [NewMedia Centre](https://newmediacentre.tudelft.nl/)
+<video controls style="width:560px;height:315px">
+  <source src="https://archive.org/download/dcd-symposium/dcd-symposium-conversation1.mp4" type="video/mp4">
+</video>
+
+Recording by [NewMedia Centre](https://newmediacentre.tudelft.nl/), archived on the [Internet Archive](https://archive.org/details/dcd-symposium/dcd-symposium-conversation1.mp4)
 
 #### Data Portraits: Personal Journeys for Engaging with Urban Cycling Data
 ##### Xavier Barriga Abril
@@ -115,6 +118,12 @@ This study focuses on the transformative role of digitally fabricated prosthetic
 ## Storytelling x Data
 #### 12:00-12:45 | Session Chairs: Renée Noortman and Alejandra Gomez Ortega
 
+<video controls style="width:560px;height:315px">
+  <source src="https://archive.org/download/dcd-symposium/dcd-symposium-conversation2.mp4" type="video/mp4">
+</video>
+
+Recording by [NewMedia Centre](https://newmediacentre.tudelft.nl/), archived on the [Internet Archive](https://archive.org/details/dcd-symposium/dcd-symposium-conversation2.mp4)
+
 #### Thickening Agents: designerly engagements with sensor data
 ##### Dave Murray-Rust, Jacky Bourgeois, Abhigyan Singh
 Delft University of Technology, Delft, The Netherlands
@@ -142,8 +151,11 @@ Can we create more embodied ways to interact with AI technologies and generate d
 ## Design Processes & Team Work x Data Practices
 #### 13:45-14:30 | Session Chairs: Peter Lovey and Mathias Funk
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nUDzOjeMJds?si=Y5WeFQmYY4qE_c_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-Recording by [NewMedia Centre](https://newmediacentre.tudelft.nl/)
+<video controls style="width:560px;height:315px">
+  <source src="https://archive.org/download/dcd-symposium/dcd-symposium-conversation3.mp4" type="video/mp4">
+</video>
+
+Recording by [NewMedia Centre](https://newmediacentre.tudelft.nl/), archived on the [Internet Archive](https://archive.org/details/dcd-symposium/dcd-symposium-conversation3.mp4)
 
 #### Designing Human-Data Interaction Experiences in Colorectal Cancer Surgery Prehabilitation
 ##### Irina Bianca Serban (1), Dimitra Dritsa (1), Israel Campero Jurado (1), Steven Houben (1), Aarnout Brombacher (1), David Ten Cate (2), Loes Janssen (2), Margot Heijmans (2)
@@ -181,6 +193,12 @@ Today we see the growing emphasis on user experience (UX) across various industr
 
 ## Spaces, Tools and Skills
 #### 14:30-15:15 | Session Chairs: Alejandra Gomez Ortega and Sandy Gould
+
+<video controls style="width:560px;height:315px">
+  <source src="https://archive.org/download/dcd-symposium/dcd-symposium-conversation4.mp4" type="video/mp4">
+</video>
+
+Recording by [NewMedia Centre](https://newmediacentre.tudelft.nl/), archived on the [Internet Archive](https://archive.org/details/dcd-symposium/dcd-symposium-conversation4.mp4)
 
 #### Rollercoasters and Research: Applying Data-Enabled Design to an Amusement Context
 ##### Sujithra Raviselvam (1), Peter Lovei (1), Renee Noortman (1), Thomas Olsson (2), Kaisa Väänänen (2), Mathias Funk (1)
