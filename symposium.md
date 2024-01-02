@@ -7,7 +7,10 @@ title: Data-Centric Design Symposium
 
 We invite you to the first Data-Centric Design Symposium on Data as Human-Centred Design material. The symposium will be held on **December 7, 2023, at [X, on TU Delft campus](https://www.tudelft.nl/en/x/) and Online**.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/H35lGFOWYQ4?si=YxI0lonywx_Sbori" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<video controls style="width:560px;height:315px">
+  <source src="https://archive.org/download/dcd-symposium/dcd-symposium-0-compilation.mp4" type="video/mp4">
+</video>
+
 Impression movie by [NewMedia Centre](https://newmediacentre.tudelft.nl/)
 
 
@@ -66,7 +69,7 @@ This program was initiated by the Data-Centric Design Lab of TU Delft Industrial
 #### 10:10-10:45 | Ingrid Pettersson, Spotify, Sweden
 
 <video controls style="width:560px;height:315px">
-  <source src="https://archive.org/download/dcd-symposium/dcd-symposium-keynote.mp4" type="video/mp4">
+  <source src="https://archive.org/download/dcd-symposium/dcd-symposium-1-keynote.mp4" type="video/mp4">
 </video>
 
 Recording by [NewMedia Centre](https://newmediacentre.tudelft.nl/), archived on the [Internet Archive](https://archive.org/details/dcd-symposium/dcd-symposium-keynote.mp4)
@@ -79,7 +82,7 @@ Ingrid's work focuses on user research and user experience design, with the ambi
 #### 11:00-12:00 | Session Chairs: Albrecht Kurze
 
 <video controls style="width:560px;height:315px">
-  <source src="https://archive.org/download/dcd-symposium/dcd-symposium-conversation1.mp4" type="video/mp4">
+  <source src="https://archive.org/download/dcd-symposium/dcd-symposium-2-conversation1.mp4" type="video/mp4">
 </video>
 
 Recording by [NewMedia Centre](https://newmediacentre.tudelft.nl/), archived on the [Internet Archive](https://archive.org/details/dcd-symposium/dcd-symposium-conversation1.mp4)
@@ -119,7 +122,7 @@ This study focuses on the transformative role of digitally fabricated prosthetic
 #### 12:00-12:45 | Session Chairs: Renée Noortman and Alejandra Gomez Ortega
 
 <video controls style="width:560px;height:315px">
-  <source src="https://archive.org/download/dcd-symposium/dcd-symposium-conversation2.mp4" type="video/mp4">
+  <source src="https://archive.org/download/dcd-symposium/dcd-symposium-3-conversation2.mp4" type="video/mp4">
 </video>
 
 Recording by [NewMedia Centre](https://newmediacentre.tudelft.nl/), archived on the [Internet Archive](https://archive.org/details/dcd-symposium/dcd-symposium-conversation2.mp4)
@@ -152,7 +155,7 @@ Can we create more embodied ways to interact with AI technologies and generate d
 #### 13:45-14:30 | Session Chairs: Peter Lovey and Mathias Funk
 
 <video controls style="width:560px;height:315px">
-  <source src="https://archive.org/download/dcd-symposium/dcd-symposium-conversation3.mp4" type="video/mp4">
+  <source src="https://archive.org/download/dcd-symposium/dcd-symposium-4-conversation3.mp4" type="video/mp4">
 </video>
 
 Recording by [NewMedia Centre](https://newmediacentre.tudelft.nl/), archived on the [Internet Archive](https://archive.org/details/dcd-symposium/dcd-symposium-conversation3.mp4)
@@ -195,7 +198,7 @@ Today we see the growing emphasis on user experience (UX) across various industr
 #### 14:30-15:15 | Session Chairs: Alejandra Gomez Ortega and Sandy Gould
 
 <video controls style="width:560px;height:315px">
-  <source src="https://archive.org/download/dcd-symposium/dcd-symposium-conversation4.mp4" type="video/mp4">
+  <source src="https://archive.org/download/dcd-symposium/dcd-symposium-5-conversation4.mp4" type="video/mp4">
 </video>
 
 Recording by [NewMedia Centre](https://newmediacentre.tudelft.nl/), archived on the [Internet Archive](https://archive.org/details/dcd-symposium/dcd-symposium-conversation4.mp4)
